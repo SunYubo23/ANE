@@ -1,4 +1,4 @@
-# Adaptive Matrix Factorization for Graph Representation Learning
+# Adaptive Matrix Factorization for Node Embedding on Large Graphs
 
 ## Description
 We implement ARL method and several downstream tasks in Python and Julia.
